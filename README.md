@@ -1,3 +1,3 @@
 # Tony's Website
 
-[tjguan.dev](tjguan.dev)
+[tjguan.dev](https://tjguan.dev)
